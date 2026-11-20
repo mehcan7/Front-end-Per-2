@@ -1,3 +1,5 @@
+import './App.scss'
+
 const loremIpsum =
   'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae commodi tempora voluptates eos maxime inventore suscipit ipsum reiciendis, quidem quia at accusantium aliquid nihil placeat doloremque cupiditate esse ab odio?'
 
