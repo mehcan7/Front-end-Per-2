@@ -1,0 +1,15 @@
+.knop {
+  width: 100%;
+  padding: 8px;
+  border: none;
+  border-radius: 6px;
+  color: white;
+}
+
+.paars {
+  background-color: #ffbf00;
+}
+
+.groen {
+  background-color: #ff0015;
+}
